@@ -100,7 +100,7 @@ body {
 .card__footer {
   border-top: 1px solid #d6d6d6;
   margin: auto;
-  width: 90%;
+  width: 85%;
 }
 .icons {
   display: flex;
@@ -111,7 +111,9 @@ li {
   font-size: 15px;
   color: #d6d6d6;
 }
-.last--icon {
+.second--icon {
+  margin-left: 2rem;
+}
+.third--icon {
   margin-left: auto;
-  margin-right: 0px;
 }
